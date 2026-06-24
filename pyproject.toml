@@ -1,0 +1,9 @@
+[project]
+name = "prefect-remote"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "loguru>=0.7.3",
+    "polars>=1.42.0",
+    "prefect>=3.7.5",
+]
